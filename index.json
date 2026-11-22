@@ -3,6 +3,11 @@
   "repo": "jaraco.envs",
   "versions": [
     {
+      "commit": "c888dd198b345d1a0e7c381f7bc410495ee36c90",
+      "tag": "v2.6.0",
+      "parsed_at": "2026-11-22T09:03:28.716752+00:00"
+    },
+    {
       "commit": "3da05f25098b22e1b46acb72849c1b95d8433fc4",
       "tag": "",
       "parsed_at": "2026-11-06T03:01:19.514738+00:00"
